@@ -1,4 +1,4 @@
 desde el PC local
 
 
-cambios que se estan editando
+cambios que se estan editando desde el repositorio
