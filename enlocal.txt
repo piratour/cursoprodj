@@ -1,3 +1,7 @@
 desde el PC local
 
+
 mis cambios en el mismo archivo desde el local
+
+cambios que se estan editando desde el repositorio
+
